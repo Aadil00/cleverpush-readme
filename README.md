@@ -20,7 +20,7 @@
 ## Redis-server & MongoDB
 ``` sudo systemctl start redis-server && sudo systemctl start mongod ```
 
-## Cleverpush-app
+## Cleverpush-pushque
 ``` MONGO_URL=mongodb://localhost:27017/cleverpush meteor --port 3001```
 
 ## Tasks and Branch Name
