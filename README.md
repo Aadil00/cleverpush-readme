@@ -5,6 +5,9 @@
 ## Cleverpush-app
 ``` MONGO_URL=mongodb://localhost:27017/cleverpush meteor --port 3001```
 
+## Cleverpush-worker
+``` MONGO_URL=mongodb://localhost:27017/cleverpush meteor --port 3002```
+
 ## Cleverpush-js-sdk
 ``` npm run dev ```
 
